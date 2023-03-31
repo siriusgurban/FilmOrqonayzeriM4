@@ -1,0 +1,16 @@
+.main-page__content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.main-page__main-section {
+    flex: 3;
+}
+.main-page__search-box {
+    margin-bottom: 15px;
+}
+
+.main-page__favorites {
+    margin-top: 70px;
+    flex: 1;
+}
